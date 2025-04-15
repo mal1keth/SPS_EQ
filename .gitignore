@@ -1,0 +1,15 @@
+/.DS_Store/
+*.aux
+*.log
+*.nav
+*.out
+*.snm
+*.synctex.gz
+*.toc
+*.vrb
+*.tex
+count.py
+main.cpp
+presentation_README.md
+/figures/
+/_minted/
